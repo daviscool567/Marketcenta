@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Marketcenta</string>
+    <string name="title_activity_main">Marketcenta</string>
+    <string name="package_name">com.marketcenta.marketcenta</string>
+    <string name="custom_url_scheme">com.marketcenta.marketcenta</string>
+</resources>
